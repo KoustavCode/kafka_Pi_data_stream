@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="scala-library-2.10.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Kafka_jars/scala-library-2.10.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
